@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div className='header'>
             <div className='logo'>
-                <h1>Phoenixihgroup.com</h1>
+                <h1>Phoenix Media</h1>
             </div>
             <div className='links'>
                 <a href="#home">Home</a>

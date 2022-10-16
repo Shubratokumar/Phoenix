@@ -1,0 +1,31 @@
+.banner{
+    background-image: url(../assets/images/banner.jpg);
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    margin-top: -25px;
+}
+.heading-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.heading{
+    color: whitesmoke;
+    text-align: center;
+}
+.sub-heading{
+    font-size: 18px;
+    font-style: italic;
+}
+.main-heading{
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.hire-btn > button{
+    background-color: brown;
+    color: white;
+    padding: 15px 25px;
+}
