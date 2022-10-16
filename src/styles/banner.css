@@ -3,7 +3,6 @@
     background-size: cover;
     width: 100%;
     min-height: 100vh;
-    margin-top: -25px;
 }
 .heading-wrapper{
     display: flex;
@@ -25,7 +24,10 @@
     text-transform: uppercase;
 }
 .hire-btn > button{
-    background-color: brown;
+    background-color: rgb(243, 67, 67);
     color: white;
-    padding: 15px 25px;
+    padding: 15px 30px;
+    border: none;
+    font-size: 18px;
+    font: bold;
 }
