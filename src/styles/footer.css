@@ -1,0 +1,14 @@
+.footer-wrapper{
+    background-color: black;
+    color: whitesmoke;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 100px; 
+    font-size: 14px;
+}
+span{
+    color: rgb(243, 67, 67);
+}
