@@ -10,6 +10,9 @@
 .production-desc{
     padding: 50px;
 }
+.production-desc > p{
+    color: gray;
+}
 .production-btn > button{
     background-color: rgb(243, 67, 67);
     color: white;
