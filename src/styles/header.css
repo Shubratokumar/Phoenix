@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: rgb(76, 71, 71);
+    color: white;
+}
+.links > a {
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font: 700;
+    font-size: 18px;
+}
